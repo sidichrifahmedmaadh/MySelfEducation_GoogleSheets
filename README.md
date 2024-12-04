@@ -204,7 +204,7 @@ Steps to Display the Top 5 Subjects
 
 Example
 <br/><br/>
-![Table](https://i.ibb.co/4gDC7SW/Capture-d-cran-2024-12-04-013538.png))
+![Table](https://i.ibb.co/gvH6GGn/Capture-d-cran-2024-12-04-023019.png))
 
 Code Functionality for Top 5 Subjects
 
