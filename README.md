@@ -12,8 +12,6 @@ Key Features
 ## Steps for Setup and Usage
 
 
-
-
 ## 1. Create the Table Structure
 
 - Open Google Sheets.
@@ -178,12 +176,15 @@ Usage
 Expected Results :
 
 1. After entering a duration in column D, columns B and C are updated:
+<br/><br/>
 ![Table](https://i.ibb.co/0BwX7Qb/Capture-d-cran-2024-12-04-023907.png)
 
-3. The last cell in column D displays the total in hh:mm format:
+2. The last cell in column D displays the total in hh:mm format:
+<br/><br/>
 ![Table](https://i.ibb.co/B61kLKD/Capture-d-cran-2024-12-04-024203.png)
 
-Troubleshooting
+
+Troubleshooting :
 
 - Formatting Error: Ensure that durations in column D are entered in the hh:mm format.
 - Script Not Working: Verify that triggers are correctly set up and the sheet is named “Sheet1”.
@@ -207,12 +208,12 @@ Steps to Display the Top 5 Subjects
 3. Displaying the Results:
    	- The top 5 most-studied subjects are displayed in a dedicated section (e.g., starting from cell G3).
 
-Example
+Example :
 <br/><br/>
 ![Table](https://i.ibb.co/gvH6GGn/Capture-d-cran-2024-12-04-023019.png)
 
 
-Using the Top 5 Subjects Section
+Using the Top 5 Subjects Section :
 
 1. Automatic Ranking:
 	- Whenever you add or update time for any subject, the script recalculates the top 5 based on total study time.
@@ -226,7 +227,7 @@ Using the Top 5 Subjects Section
 - <b> Functionality: Add a chart to visualize time spent on each subjectl </b> 
 <br/><br/>
 
-Example
+Example :
 <br/><br/>
 ![Table](https://i.ibb.co/FVDVmLM/Capture-d-cran-2024-12-04-023052.png)
 
