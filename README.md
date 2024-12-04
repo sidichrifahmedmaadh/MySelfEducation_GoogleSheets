@@ -33,7 +33,7 @@ Example Table:
 
 Step 1: Open Apps Script
 
-- In Google Sheets, go to Extensions > Apps Script.
+- In Google Sheets, go to <b>Extensions</b> >  <b>Apps Script</b>.
 - Delete any existing content and paste the following code:
 
 ```python
