@@ -224,8 +224,6 @@ Example
 <br/><br/>
 ![Table](https://i.ibb.co/FVDVmLM/Capture-d-cran-2024-12-04-023052.png))
 
-- Automate reminders to meet study goals.
-
 
 
 <p align="center">
