@@ -178,10 +178,10 @@ Step 3: View Total
 Expected Results :
 
 1. After entering a duration in column D, columns B and C are updated:
-![Table](https://i.ibb.co/0BwX7Qb/Capture-d-cran-2024-12-04-023907.png))
+![Table](https://i.ibb.co/0BwX7Qb/Capture-d-cran-2024-12-04-023907.png)
 
 3. The last cell in column D displays the total in hh:mm format:
-![Table](https://i.ibb.co/B61kLKD/Capture-d-cran-2024-12-04-024203.png))
+![Table](https://i.ibb.co/B61kLKD/Capture-d-cran-2024-12-04-024203.png)
 
 Troubleshooting
 
@@ -208,7 +208,7 @@ Steps to Display the Top 5 Subjects
 
 Example
 <br/><br/>
-![Table](https://i.ibb.co/gvH6GGn/Capture-d-cran-2024-12-04-023019.png))
+![Table](https://i.ibb.co/gvH6GGn/Capture-d-cran-2024-12-04-023019.png)
 
 
 Using the Top 5 Subjects Section
@@ -224,7 +224,7 @@ Using the Top 5 Subjects Section
 - Functionality: Add a chart to visualize time spent on each subject
 Example
 <br/><br/>
-![Table](https://i.ibb.co/FVDVmLM/Capture-d-cran-2024-12-04-023052.png))
+![Table](https://i.ibb.co/FVDVmLM/Capture-d-cran-2024-12-04-023052.png)
 
 
 <br/><br/><br/>
