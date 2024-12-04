@@ -188,7 +188,7 @@ Troubleshooting
 - Formatting Error: Ensure that durations in column D are entered in the hh:mm format.
 - Script Not Working: Verify that triggers are correctly set up and the sheet is named “Sheet1”.
 
-
+<br/><br/><br/>
 
 ## 4. Future Improvements
 
@@ -221,6 +221,7 @@ Using the Top 5 Subjects Section
 3. Customizable Display:
    	- You can change the starting cell (e.g., G3) in the script or increase the number of subjects displayed.
 
+<br/><br/><br/>
 
 - <b> Functionality: Add a chart to visualize time spent on each subjectl </b> 
 <br/><br/>
