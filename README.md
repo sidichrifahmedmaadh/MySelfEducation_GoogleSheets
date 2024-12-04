@@ -86,7 +86,7 @@ function onEdit(e) {
           const newMinutes = parseInt(timeParts[1], 10);
 
           if (isNaN(newHours) || isNaN(newMinutes)) {
-            SpreadsheetApp.getUi().alert("Veuillez entrer une durée valide au format hh:mm (par exemple, 2:30).");
+            SpreadsheetApp.getUi().alert("Please enter a duration in hh:mm format (e.g. 2:30).).");
             range.setValue("");
             return;
           }
