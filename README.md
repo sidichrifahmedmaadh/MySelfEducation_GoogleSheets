@@ -175,11 +175,13 @@ Step 3: View Total
 
 - Check the last cell in column D to see the cumulative total in hh:mm format.
 
-Expected Results
+Expected Results :
 
 1. After entering a duration in column D, columns B and C are updated:
+<br/>
 ![Table](https://i.ibb.co/0BwX7Qb/Capture-d-cran-2024-12-04-023907.png))
 2. The last cell in column D displays the total in hh:mm format:
+<br/>
 ![Table](https://i.ibb.co/B61kLKD/Capture-d-cran-2024-12-04-024203.png))
 
 Troubleshooting
