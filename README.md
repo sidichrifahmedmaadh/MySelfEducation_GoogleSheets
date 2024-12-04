@@ -194,13 +194,13 @@ The script automatically identifies and displays the top 5 subjects based on the
 
 Steps to Display the Top 5 Subjects
 
-	1.	Tracking Study Time:
-	•	For each subject listed in the “Subject / Science / Discipline” column, the total study time (Hours and Minutes) is calculated.
-	•	These totals are converted to minutes for easy comparison.
-	2.	Sorting the Data:
-	•	The script compares the total time studied for all subjects and ranks them in descending order.
-	3.	Displaying the Results:
-	•	The top 5 most-studied subjects are displayed in a dedicated section (e.g., starting from cell G3).
+1. Tracking Study Time:
+	- For each subject listed in the “Subject / Science / Discipline” column, the total study time (Hours and Minutes) is calculated.
+	- These totals are converted to minutes for easy comparison.
+2. Sorting the Data:
+   	- The script compares the total time studied for all subjects and ranks them in descending order.
+3. Displaying the Results:
+   	- The top 5 most-studied subjects are displayed in a dedicated section (e.g., starting from cell G3).
 
 Example
 <br/><br/>
@@ -224,3 +224,12 @@ Future Improvements
 - Add a chart to visualize time spent on each subject.
 - Automate reminders to meet study goals.
 
+
+
+<p align="center">
+   	<b>
+		If you like it, give the <a href="https://github.com/sidichrifahmedmaadh/MySelfEducation_GoogleSheets"> project </a>  a star on Github and <br/>
+		share with your friends!! I will be happy with it! ❤️ <br/>
+		I hope you learn something :).
+	</b>
+</p>
