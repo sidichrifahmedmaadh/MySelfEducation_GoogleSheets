@@ -86,7 +86,7 @@ function onEdit(e) {
           const newMinutes = parseInt(timeParts[1], 10);
 
           if (isNaN(newHours) || isNaN(newMinutes)) {
-            SpreadsheetApp.getUi().alert("Please enter a duration in hh:mm format (e.g. 2:30).).");
+            SpreadsheetApp.getUi().alert("Please enter a duration in hh:mm format (e.g. 2:30)).");
             range.setValue("");
             return;
           }
@@ -110,7 +110,7 @@ function onEdit(e) {
           updateTopSubjects(sheet);
           updateTotalInLastCell(); // Appel de la fonction updateTotal ici
         } else {
-          SpreadsheetApp.getUi().alert("Veuillez entrer une durée au format hh:mm (par exemple, 2:30).");
+          SpreadsheetApp.getUi().alert("Please enter a duration in hh:mm format (e.g. 2:30).");
           range.setValue("");
         }
       }
