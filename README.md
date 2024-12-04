@@ -192,7 +192,7 @@ Troubleshooting :
 <br/><br/><br/>
 
 ## 4. Future Improvements
-<br/><br/>
+<br/>
 
 - <b> Functionality: the Top 5 Most-Studied Subjects </b> 
 <br/><br/>
@@ -223,7 +223,7 @@ Using the Top 5 Subjects Section :
 3. Customizable Display:
    	- You can change the starting cell (e.g., G3) in the script or increase the number of subjects displayed.
 
-<br/><br/><br/>
+<br/><br/>
 
 - <b> Functionality: Add a chart to visualize time spent on each subjectl </b> 
 <br/><br/>
