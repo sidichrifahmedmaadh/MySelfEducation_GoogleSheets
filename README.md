@@ -34,7 +34,8 @@ Example Table:
 Step 1: Open Apps Script
 
 - In Google Sheets, go to Extensions > Apps Script.
-- Delete any existing content and paste the following code: 
+- Delete any existing content and paste the following code:
+
 ```python
 function updateTopSubjects(sheet) {
   const lastRow = sheet.getLastRow();
@@ -186,9 +187,11 @@ Troubleshooting
 - Formatting Error: Ensure that durations in column D are entered in the hh:mm format.
 - Script Not Working: Verify that triggers are correctly set up and the sheet is named “Sheet1”.
 
-Voici comment expliquer et utiliser les 5 most-studied subjects dans le script et Google Sheet, traduit en anglais :
 
-Displaying the Top 5 Most-Studied Subjects
+
+## 4. Future Improvements
+
+- Functionality: the Top 5 Most-Studied Subjects
 
 The script automatically identifies and displays the top 5 subjects based on the total time studied (hours and minutes). These subjects are ranked in descending order of total study time, allowing you to track where you’ve focused the most effort.
 
@@ -206,8 +209,6 @@ Example
 <br/><br/>
 ![Table](https://i.ibb.co/gvH6GGn/Capture-d-cran-2024-12-04-023019.png))
 
-Code Functionality for Top 5 Subjects
-
 Using the Top 5 Subjects Section
 
 1. Automatic Ranking:
@@ -218,10 +219,11 @@ Using the Top 5 Subjects Section
    	- You can change the starting cell (e.g., G3) in the script or increase the number of subjects displayed.
 
 
+- Functionality: Add a chart to visualize time spent on each subject
+Example
+<br/><br/>
+![Table](https://i.ibb.co/FVDVmLM/Capture-d-cran-2024-12-04-023052.png))
 
-Future Improvements
-
-- Add a chart to visualize time spent on each subject.
 - Automate reminders to meet study goals.
 
 
