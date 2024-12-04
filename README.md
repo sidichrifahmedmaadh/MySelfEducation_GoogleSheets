@@ -192,6 +192,7 @@ Troubleshooting :
 <br/><br/><br/>
 
 ## 4. Future Improvements
+<br/><br/>
 
 - <b> Functionality: the Top 5 Most-Studied Subjects </b> 
 <br/><br/>
