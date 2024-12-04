@@ -20,7 +20,7 @@ Steps for Setup and Usage
 	•	Minutes: Total number of minutes studied.
 	•	Add New Hours: Allows adding new durations in the hh:mm format.
 
-Example Table:
+Example Table: <br/>
 ![Table](https://i.ibb.co/4gDC7SW/Capture-d-cran-2024-12-04-013538.png)
 
 
