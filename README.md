@@ -223,7 +223,6 @@ Using the Top 5 Subjects Section
 - Functionality: Add a chart to visualize time spent on each subject
 <br/>
 Example
-<br/>
 ![Table](https://i.ibb.co/FVDVmLM/Capture-d-cran-2024-12-04-023052.png))
 
 
