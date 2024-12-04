@@ -13,12 +13,12 @@ Steps for Setup and Usage
 
 1. Create the Table Structure
 
-	•	Open Google Sheets.
-	•	Create a table with the following columns:
-	•	Subject / Science / Discipline: List of subjects or disciplines being studied.
-	•	Hours: Total number of hours studied.
-	•	Minutes: Total number of minutes studied.
-	•	Add New Hours: Allows adding new durations in the hh:mm format.
+	1. Open Google Sheets.
+	2. Create a table with the following columns:
+	3. Subject / Science / Discipline: List of subjects or disciplines being studied.
+	3. Hours: Total number of hours studied.
+	4. Minutes: Total number of minutes studied.
+	5. Add New Hours: Allows adding new durations in the hh:mm format.
 
 Example Table: <br/>
 ![Table](https://i.ibb.co/4gDC7SW/Capture-d-cran-2024-12-04-013538.png)
