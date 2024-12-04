@@ -176,15 +176,48 @@ Step 3: View Total
 
 Expected Results
 
-	1.	After entering a duration in column D, columns B and C are updated:
-(Insert a screenshot here showing the updated table.)
-	2.	The last cell in column D displays the total in hh:mm format:
-(Insert a screenshot here showing the total.)
+1. After entering a duration in column D, columns B and C are updated:
+![Table](https://i.ibb.co/0BwX7Qb/Capture-d-cran-2024-12-04-023907.png))
+2. The last cell in column D displays the total in hh:mm format:
+![Table](https://i.ibb.co/B61kLKD/Capture-d-cran-2024-12-04-024203.png))
 
 Troubleshooting
 
 - Formatting Error: Ensure that durations in column D are entered in the hh:mm format.
 - Script Not Working: Verify that triggers are correctly set up and the sheet is named “Sheet1”.
+
+Voici comment expliquer et utiliser les 5 most-studied subjects dans le script et Google Sheet, traduit en anglais :
+
+Displaying the Top 5 Most-Studied Subjects
+
+The script automatically identifies and displays the top 5 subjects based on the total time studied (hours and minutes). These subjects are ranked in descending order of total study time, allowing you to track where you’ve focused the most effort.
+
+Steps to Display the Top 5 Subjects
+
+	1.	Tracking Study Time:
+	•	For each subject listed in the “Subject / Science / Discipline” column, the total study time (Hours and Minutes) is calculated.
+	•	These totals are converted to minutes for easy comparison.
+	2.	Sorting the Data:
+	•	The script compares the total time studied for all subjects and ranks them in descending order.
+	3.	Displaying the Results:
+	•	The top 5 most-studied subjects are displayed in a dedicated section (e.g., starting from cell G3).
+
+Example
+<br/><br/>
+![Table](https://i.ibb.co/4gDC7SW/Capture-d-cran-2024-12-04-013538.png))
+
+Code Functionality for Top 5 Subjects
+
+Using the Top 5 Subjects Section
+
+1. Automatic Ranking:
+	- Whenever you add or update time for any subject, the script recalculates the top 5 based on total study time.
+2. Visualizing Your Efforts:
+   	- The section provides an instant overview of your most-focused subjects, helping you adjust your study schedule if needed.
+3. Customizable Display:
+   	- You can change the starting cell (e.g., G3) in the script or increase the number of subjects displayed.
+
+
 
 Future Improvements
 
