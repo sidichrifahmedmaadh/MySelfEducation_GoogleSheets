@@ -221,6 +221,7 @@ Using the Top 5 Subjects Section
 
 
 - Functionality: Add a chart to visualize time spent on each subject
+<br/>
 Example
 <br/><br/>
 ![Table](https://i.ibb.co/FVDVmLM/Capture-d-cran-2024-12-04-023052.png))
@@ -229,7 +230,10 @@ Example
 <br/><br/><br/>
 
 <p align="center">
-   	<b>
+   	<b>	This Is [MY SELF EDUCATION](https://docs.google.com/spreadsheets/d/1ZML9h4zXsLC8KIx6g4DR-lsSJ7VzN-aj-Meo9Lrdt7w/edit?usp=sharing).
+
+  		<br/><br/><br/>
+  		
 		If you like it, give the <a href="https://github.com/sidichrifahmedmaadh/MySelfEducation_GoogleSheets"> project </a>  a star on Github and <br/>
 		share with your friends!! I will be happy with it! ❤️ <br/>
 		I hope you learn something :).
