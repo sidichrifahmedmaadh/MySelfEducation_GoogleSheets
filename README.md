@@ -178,10 +178,9 @@ Step 3: View Total
 Expected Results :
 
 1. After entering a duration in column D, columns B and C are updated:
-<br/>
 ![Table](https://i.ibb.co/0BwX7Qb/Capture-d-cran-2024-12-04-023907.png))
-2. The last cell in column D displays the total in hh:mm format:
-<br/>
+
+3. The last cell in column D displays the total in hh:mm format:
 ![Table](https://i.ibb.co/B61kLKD/Capture-d-cran-2024-12-04-024203.png))
 
 Troubleshooting
