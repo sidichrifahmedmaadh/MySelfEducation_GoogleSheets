@@ -21,11 +21,8 @@ Steps for Setup and Usage
 	•	Add New Hours: Allows adding new durations in the hh:mm format.
 
 Example Table:
+![Table](https://i.ibb.co/4gDC7SW/Capture-d-cran-2024-12-04-013538.png)
 
-Subject / Science / Discipline	Hours	Minutes	Add New Hours
-Computer Science - Programming	12	4	
-Mathematics - Data Analysis	0	0	
-TOTAL	12	4	
 
 2. Create the Apps Script
 
