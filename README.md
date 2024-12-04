@@ -31,7 +31,7 @@ Example Table:
 
 ## 2. Create the Apps Script
 
-Step 1: Open Apps Script
+<b> Step 1: Open Apps Script </b> 
 
 - In Google Sheets, go to <b>Extensions</b> >  <b>Apps Script</b>.
 - Delete any existing content and paste the following code:
@@ -161,17 +161,17 @@ function updateTotalInLastCell() {
 
 Usage
 
-Step 1: Initial Setup
+<b> Step 1: Initial Setup </b>  
 
 - Enter the subject names in column A.
 - Fill in the initial hours and minutes in columns B and C.
 
-Step 2: Add New Hours
+<b> Step 2: Add New Hours </b> 
 
 - In column D, enter a duration in the hh:mm format for a subject.
 - The hours and minutes will automatically update in columns B and C.
 
-Step 3: View Total
+<b> Step 3: View Total </b> 
 
 - Check the last cell in column D to see the cumulative total in hh:mm format.
 
