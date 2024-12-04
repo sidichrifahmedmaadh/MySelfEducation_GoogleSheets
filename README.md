@@ -192,7 +192,8 @@ Troubleshooting
 
 ## 4. Future Improvements
 
-- Functionality: the Top 5 Most-Studied Subjects
+- <b> Functionality: the Top 5 Most-Studied Subjects </b> 
+<br/><br/>
 
 The script automatically identifies and displays the top 5 subjects based on the total time studied (hours and minutes). These subjects are ranked in descending order of total study time, allowing you to track where you’ve focused the most effort.
 
@@ -221,7 +222,9 @@ Using the Top 5 Subjects Section
    	- You can change the starting cell (e.g., G3) in the script or increase the number of subjects displayed.
 
 
-- Functionality: Add a chart to visualize time spent on each subject
+- <b> Functionality: Add a chart to visualize time spent on each subjectl </b> 
+<br/><br/>
+
 Example
 <br/><br/>
 ![Table](https://i.ibb.co/FVDVmLM/Capture-d-cran-2024-12-04-023052.png)
