@@ -207,9 +207,7 @@ Steps to Display the Top 5 Subjects
 
 Example
 <br/><br/>
-<div align="center">
-	![Table](https://i.ibb.co/gvH6GGn/Capture-d-cran-2024-12-04-023019.png))
-</div>
+![Table](https://i.ibb.co/gvH6GGn/Capture-d-cran-2024-12-04-023019.png))
 
 
 Using the Top 5 Subjects Section
@@ -225,11 +223,10 @@ Using the Top 5 Subjects Section
 - Functionality: Add a chart to visualize time spent on each subject
 Example
 <br/><br/>
-<div align="center">
-	![Table](https://i.ibb.co/FVDVmLM/Capture-d-cran-2024-12-04-023052.png))
-</div>
+![Table](https://i.ibb.co/FVDVmLM/Capture-d-cran-2024-12-04-023052.png))
 
 
+<br/><br/><br/>
 
 <p align="center">
    	<b>
